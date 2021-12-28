@@ -1,0 +1,8 @@
+License.txt
+setup.py
+packagehelloworld/__init__.py
+packagehelloworld.egg-info/PKG-INFO
+packagehelloworld.egg-info/SOURCES.txt
+packagehelloworld.egg-info/dependency_links.txt
+packagehelloworld.egg-info/requires.txt
+packagehelloworld.egg-info/top_level.txt

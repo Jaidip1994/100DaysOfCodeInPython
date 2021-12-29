@@ -15,6 +15,7 @@ grid = [[1, 1, 0, 1, 0, 0],
         [1, 1, 1, 0, 0, 1]]
 
 
+
 def maxAreaOfLand(grid) -> int:
 
     def getArea(r, c, area):

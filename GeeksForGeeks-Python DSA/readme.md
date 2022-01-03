@@ -8,9 +8,11 @@
 - What is order of growth
     1. Usefull while doing theoritical analysis of Algorithm
     2. A function f(n) is said to be growing faster than g(n), if one of the condition is true
+    ```math
     $$~  \lim_{n \rightarrow - \infty} \frac{f(n)}{g(n)} = \infty ~$$
     or
     $$~  \lim_{n \rightarrow - \infty} \frac{g(n)}{f(n)} = 0 ~$$
+    ```
 
     - How to calculate the order of growth
         - Ignore lower order terms

@@ -16,3 +16,9 @@
         - Ignore leading constants
         
     ![image](https://user-images.githubusercontent.com/11685096/147967260-4c0d1c10-c233-41be-b914-07669bbf7f5c.png)
+
+- Order of Growth can be measured in three ways - *Best, Worst & Average Cases*
+- Asymptotic Notation
+    - Big O - represent exact or upper bound
+    - Theta - represent exact bound
+    - Omega - represent exact or lower bound

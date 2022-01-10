@@ -23,4 +23,5 @@
     
     ![bigONotation](https://user-images.githubusercontent.com/11685096/148276958-f5933984-9628-4682-b5e3-a31c491c1633.jpeg)
     - Theta - represent exact bound
+    - 
     - Omega - represent exact or lower bound

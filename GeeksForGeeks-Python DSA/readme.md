@@ -4,7 +4,7 @@
     1. No dependency on the Machine, programming languages , etc
     2. No need to implement all the ideas/algos, even the pseudo code works
     3. Asymptotic Analysis is about measuring order of growth in terms of input size. 
-
+---
 - What is order of growth
     1. Usefull while doing theoritical analysis of Algorithm
     2. A function f(n) is said to be growing faster than g(n), if one of the condition is true
@@ -31,4 +31,4 @@
         - if f(n) = Omega(g(n))
         - then g(n) = BigO(f(n))
     
-
+---

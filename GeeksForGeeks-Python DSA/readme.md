@@ -23,6 +23,9 @@
     
     ![bigONotation](https://user-images.githubusercontent.com/11685096/148276958-f5933984-9628-4682-b5e3-a31c491c1633.jpeg)
     - Theta - represent exact bound
+    ![ThetaPart1](https://user-images.githubusercontent.com/11685096/149486080-1b25cf12-41ee-4422-8db6-8edb1efc6283.jpeg)
+    ![ThetaPart2](https://user-images.githubusercontent.com/11685096/149486200-6dfd0a5e-4b36-413e-b69c-f62097a1e906.jpeg)
+
     - Omega - represent exact or lower bound
     ![Omega](https://user-images.githubusercontent.com/11685096/149277925-6b86fa34-0155-42d6-abb5-10c8669c878c.jpeg)
         - if f(n) = Omega(g(n))

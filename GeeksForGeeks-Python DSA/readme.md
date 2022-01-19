@@ -32,3 +32,7 @@
         - then g(n) = BigO(f(n))
     
 ---
+- What is Space Complexity
+Order of growth of memory(RAM) usage in terms of input
+- What is Auxiliary Space
+Order of growth of extra space( other than i/p or o/p)

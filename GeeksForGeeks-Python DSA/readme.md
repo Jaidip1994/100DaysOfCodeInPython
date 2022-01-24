@@ -1,13 +1,13 @@
-# Points Learnt from Course
+# Points Learnt from DSA Course
 - What is Asymptotic Analysis
 
-    1. No dependency on the Machine, programming languages , etc
-    2. No need to implement all the ideas/algos, even the pseudo code works
-    3. Asymptotic Analysis is about measuring order of growth in terms of input size. 
+    1. No dependency on the Machine, programming languages, etc.
+    2. No need to implement all the ideas/algos, even the pseudo-code works
+    3. Asymptotic Analysis is about measuring the order of growth in terms of input size. 
 ---
-- What is order of growth
-    1. Usefull while doing theoritical analysis of Algorithm
-    2. A function f(n) is said to be growing faster than g(n), if one of the condition is true
+- What is the order of growth
+    1. Useful while doing theoretical analysis of Algorithm
+    2. A function f(n) is said to be growing faster than g(n) if one of the conditions is true
 ![image](https://user-images.githubusercontent.com/11685096/147967217-d3737bd0-cd28-449c-a8c1-87a276759044.png)
 
 

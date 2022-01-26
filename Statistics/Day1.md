@@ -1,4 +1,4 @@
-Notes of what learnt on Day from [Video](https://www.youtube.com/watch?v=11unm2hmvOQ)
+Notes of what learnt on Day1 from [Video](https://www.youtube.com/watch?v=11unm2hmvOQ) by Krish Naik
 - What is **Statistics** ? : Statistiscs is the science of ***collecting, organizing & analyzing data***
 - What is **Data** ? Facts or pieces of information which can be measured
 - Types of Statistics

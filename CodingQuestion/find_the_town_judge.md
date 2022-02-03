@@ -1,4 +1,4 @@
-# Problem Description : https://leetcode.com/problems/find-the-town-judge/
+Problem Description : https://leetcode.com/problems/find-the-town-judge/
 
 ```python
 class Solution:

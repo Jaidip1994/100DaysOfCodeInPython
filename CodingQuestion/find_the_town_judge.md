@@ -1,5 +1,6 @@
 # Problem Description : https://leetcode.com/problems/find-the-town-judge/
 
+```python
 class Solution:
     def findJudge(self, n: int, trust: List[List[int]]) -> int:
         tj = [0] * (n+1)
@@ -10,3 +11,4 @@ class Solution:
             if tj[i] == n-1:
                 return i
         return -1 
+```

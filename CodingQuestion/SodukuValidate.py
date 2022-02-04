@@ -10,6 +10,8 @@
 #     ['.', '.', '.', '.', '8', '.', '.', '7', '9']
 # ]
 
+# Problem Description: https://leetcode.com/problems/valid-sudoku/submissions/
+
 board = [
     ["5","3",".",".","7",".",".",".","."],
     ["6",".",".","1","9","5",".",".","."],

@@ -36,3 +36,7 @@
 Order of growth of memory(RAM) usage in terms of input
 - What is Auxiliary Space
 Order of growth of extra space( other than i/p or o/p)
+
+---
+![image](https://user-images.githubusercontent.com/11685096/153625513-32cd5795-be5c-4285-80c1-c085659a9573.png)
+

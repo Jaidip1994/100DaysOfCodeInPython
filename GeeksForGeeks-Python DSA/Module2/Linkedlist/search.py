@@ -5,11 +5,13 @@ class LinkedList():
         
 
 def search(head, srch):
+    count = 0
     while head:
         if head.val == srch:
-            return True
+            return True, count
         head = head.next
-    return False
+        count += 1
+    return False, -1
 
 
 head = LinkedList(20)

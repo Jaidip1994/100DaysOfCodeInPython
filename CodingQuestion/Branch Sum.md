@@ -19,10 +19,10 @@ def branchSums(root):
 def preorder(root, sum_val, final_op):
 	if root:
 		# print(root.value, end = "=>")
-		preorder(root.left, sum_val+root.value,final_op)
-		preorder(root.right, sum_val+root.value,final_op)
-		
 		if not root.left and not root.right:
 			# print(f'Sum: {sum_val+root.value}')
 			final_op.append(sum_val+root.value)
+			return
+		preorder(root.left, sum_val+root.value,final_op)
+		preorder(root.right, sum_val+root.value,final_op)
 ```

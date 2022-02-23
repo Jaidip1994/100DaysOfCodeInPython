@@ -5,6 +5,7 @@
     2. No need to implement all the ideas/algos, even the pseudo-code works
     3. Asymptotic Analysis is about measuring the order of growth in terms of input size. 
 ---
+
 - What is the order of growth
     1. Useful while doing theoretical analysis of Algorithm
     2. A function f(n) is said to be growing faster than g(n) if one of the conditions is true

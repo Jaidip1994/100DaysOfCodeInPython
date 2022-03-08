@@ -13,3 +13,4 @@ class Solution:
                 num, digital_root = digital_root, 0
         return digital_root
 ```
+
